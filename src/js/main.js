@@ -85,6 +85,7 @@ function main() {
             wid: whiteboardId,
             at: accessToken,
             windowWidthHeight: { w: $(window).width(), h: $(window).height() },
+            
         });
     });
 }

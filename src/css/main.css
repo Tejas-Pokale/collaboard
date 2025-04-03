@@ -1,5 +1,5 @@
 :root {
-    --selected-icon-bg-color: #dfdfdf;
+    --selected-icon-bg-color: #ffffff;
 }
 
 body {
@@ -29,7 +29,7 @@ body {
     cursor: pointer;
     /* Pointer/hand icon */
     float: left;
-    /* Float the buttons side by side */
+    /* Float the buttons side by side */    
 }
 
 @media (max-device-width: 1024px) {
